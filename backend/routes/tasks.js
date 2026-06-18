@@ -1,3 +1,4 @@
+// Tasks module — implemented by Ahmed Mazen (22001360)
 // routes/tasks.js — task management (organizer assigns, staff updates progress)
 import { Router } from 'express';
 import db from '../db.js';
