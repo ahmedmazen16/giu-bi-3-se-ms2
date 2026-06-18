@@ -1,3 +1,4 @@
+venues module - Malak El Koumy 22001380
 // routes/venues.js — venue listings (venue owners) + search/browse (organizers)
 import { Router } from 'express';
 import db from '../db.js';
